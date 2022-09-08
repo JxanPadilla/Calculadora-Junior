@@ -26,6 +26,12 @@ body{
   text-decoration-color: rgb(0, 162, 255);
   text-shadow: 0 0 0.2em #87F, 0 0 0.2em #87F, 0 0 0.2em #87F;
 }  */
+body{
+   height: 100%;
+    display: flex;
+    justify-content: center;
+    alig-item: center;
+}
 
 #calculator{
     top: 200px;
