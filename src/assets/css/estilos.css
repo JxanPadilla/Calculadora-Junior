@@ -4,6 +4,10 @@ body{
     background-image: url('https://img.besthqwallpapers.com/Uploads/27-8-2018/63271/atletico-junior-fc-cd-popular-junior-fc-4k-leather-texture-logo.jpg');
     background-repeat: no-repeat;
     background-size: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    alig-item: center;
    
 }
 
@@ -26,12 +30,7 @@ body{
   text-decoration-color: rgb(0, 162, 255);
   text-shadow: 0 0 0.2em #87F, 0 0 0.2em #87F, 0 0 0.2em #87F;
 }  */
-body{
-   height: 100%;
-    display: flex;
-    justify-content: center;
-    alig-item: center;
-}
+
 
 #calculator{
     top: 200px;
