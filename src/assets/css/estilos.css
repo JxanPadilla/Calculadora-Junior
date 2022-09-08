@@ -33,7 +33,7 @@ body{
 
 
 #calculator{
-    top: 200px;
+    top: 300px;
     left: 40%;
     position: absolute;
     transform: translateX(-50%, -50%);
